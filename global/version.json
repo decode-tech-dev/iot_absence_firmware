@@ -1,5 +1,6 @@
 {
     "version": 12,
     "file_name": "fw_global_v1.2.bin",
-    "has_update": true 
+    "has_update": true,
+    "url_file": "https://tmpfiles.org/dl/15521185/sketch_absensi_rfid_modular.ino.bin"
   }
