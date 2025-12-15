@@ -1,5 +1,6 @@
 {
-    "version": 12,
-    "file_name": "fw_global_v1.2.bin",
-    "has_update": true 
-  }
+    "version": 14,
+    "file_name": "ota_update_esp.ino.bin",
+    "has_update": true,
+    "url_file": "https://download1530.mediafire.com/qx6otp2bmwcgRlsDNUQm59pX4Bx9DsVcNlESG04_0qvqFRT9MaASPX78rFMBtkRECsy0jHxXFZOYvSvVdnRSGKPeuZgtI5WS4csdt_49h7jikqEypNuvPBZ57xMjwaWwZyOSFH2BZXoDgqGSjqAPlXH1LP8wNXFe8-UB1BOJLbpCCbU/r5yr4qo8ea37tce/ota_update_esp_v14.ino.bin"
+}
