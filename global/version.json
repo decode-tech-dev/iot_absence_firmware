@@ -1,6 +1,6 @@
 {
     "version": 12,
-    "file_name": "fw_global_v1.2.bin",
+    "file_name": "ota_update_esp.ino.bin",
     "has_update": true,
-    "url_file": "https://tmpfiles.org/dl/15521185/sketch_absensi_rfid_modular.ino.bin"
+    "url_file": "https://tmpfiles.org/dl/15521891/ota_update_esp.ino.bin"
   }
